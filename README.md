@@ -4,8 +4,8 @@
 
 
 ```bash
-Lec1-Tasks
-Lec2-Tasks
+Session1-Tasks
+Session2-Tasks
 ```
 
 ##
