@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Tasks-Lec01-Python
+=======
+# Tasks-session_1-Python
+>>>>>>> 1d14a8f0533f245d40b9885bc150bcf6fe4b0725
 First lec was a quick induction for programming using python
 
 ## Quick Task 
@@ -93,4 +97,8 @@ Mo Tu We Th Fr Sa Su
 14 15 16 17 18 19 20
 21 22 23 24 25 26 27
 28 29 30 31
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 1d14a8f0533f245d40b9885bc150bcf6fe4b0725
