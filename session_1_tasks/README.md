@@ -1,4 +1,4 @@
-# Tasks-Lec01-Python
+# Tasks-session_1-Python
 First lec was a quick induction for programming using python
 
 ## Quick Task 
