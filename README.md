@@ -1,12 +1,29 @@
-# Embedded Linux Diploma introduced by Moatasem El-Sayed 
+
+# Embedded Linux Diploma introduced by Eng: Moatasem El-Sayed 
+
+Topics :
+
+* Python
+* C++
+* Linux
+* Bash
+* Raspberrypi
+* Yocto
+* Device Drivers
+* Introduction to Rust
+
 
 ## Tasks Will be updated on that remote repo in files
 
 
 ```bash
-Session1-Tasks
-Session2-Tasks
-session3-tasks
+Python Tasks :
+Session_1_Tasks
+Session_2_Tasks
+Session_3_Tasks
+Session_4_Tasks
+Session_5_Tasks
+
 ```
 
 ##
