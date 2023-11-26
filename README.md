@@ -3,10 +3,10 @@
 
 Topics :
 
-* Python
-* C++
-* Linux
-* Bash
+* Python     =>done
+* C++        =>done
+* Linux      =>done
+* Bash       =>done
 * Raspberrypi
 * Yocto
 * Device Drivers
