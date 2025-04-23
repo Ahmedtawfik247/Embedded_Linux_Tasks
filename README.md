@@ -7,7 +7,7 @@ Topics :
 * C++        =>done
 * Linux      =>done
 * Bash       =>done
-* Raspberrypi
+* Raspberrypi =>done
 * Yocto
 * Device Drivers
 * Introduction to Rust
